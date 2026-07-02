@@ -1,0 +1,9 @@
+experience_level,employment_type,job_title,company_location,company_size,remote_ratio,salary_in_usd
+EN,FT,Data Scientist,US,L,100,120000
+MI,FT,Python Developer,IN,M,50,60000
+SE,FT,Machine Learning Engineer,US,L,100,150000
+EN,FT,Data Analyst,IN,M,0,50000
+MI,FT,AI Engineer,UK,L,100,90000
+SE,FT,Data Scientist,US,M,50,130000
+EN,PT,Web Developer,IN,S,0,40000
+MI,FT,ML Engineer,CA,L,100,110000
