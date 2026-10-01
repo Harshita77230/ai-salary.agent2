@@ -1,7 +1,6 @@
 import streamlit as st
 import joblib
 import pandas as pd
-from agent import career_advice
 
 
 model=joblib.load("model/salary_model.pkl")
@@ -41,12 +40,6 @@ remote=st.number_input(
 )
 
 
-skills=st.text_input(
-"Your Skills"
-)
-
-
-
 if st.button("Predict"):
 
     input_data=pd.DataFrame({
@@ -76,12 +69,3 @@ if st.button("Predict"):
     st.success(
     f"Predicted Salary: ${salary:.2f}"
     )
-
-    with st.spinner("Generating career roadmap..."):
-        advice = career_advice(
-            salary,
-            skills
-        )
-
-    st.subheader("🤖 AI Career Advisor")
-    st.write(advice)

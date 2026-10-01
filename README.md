@@ -1,6 +1,6 @@
 # AI Salary Prediction Agent
 
-A Streamlit app that predicts data-science salaries using a RandomForest model and generates AI career advice via a local LLM (Ollama `phi3`).
+A Streamlit application that predicts data-science salaries using a Random Forest model trained on the DS Salaries dataset.
 
 ---
 
@@ -11,20 +11,13 @@ A Streamlit app that predicts data-science salaries using a RandomForest model a
 pip install -r requirements.txt
 ```
 
-### 2. Install and start Ollama
-Download from https://ollama.com, then:
-```bash
-ollama pull phi3
-```
-Make sure the Ollama service is running before launching the app.
-
-### 3. Train the model (only once)
+### 2. Train the model (only once)
 ```bash
 python train_model.py
 ```
 This reads `data/ds_salaries.csv` and saves `model/salary_model.pkl` and `model/encoder.pkl`.
 
-### 4. Launch the app
+### 3. Launch the app
 ```bash
 streamlit run app.py
 ```
@@ -32,29 +25,40 @@ Open http://localhost:8501 in your browser.
 
 ---
 
+## How It Works
+
+Select your experience level, job role, company size, location, and remote ratio, then click **Predict** to get an estimated annual salary in USD.
+
+The prediction is made by a `RandomForestRegressor` trained on real-world data-science salary data.
+
+---
+
 ## Deployment
 
-### ⚠️ Vercel
-Vercel **cannot** run Streamlit apps. Streamlit requires a persistent WebSocket server, which Vercel's serverless runtime does not support.
+### ✅ Render (recommended)
+1. Push this repo to GitHub.
+2. Create a new **Web Service** on [Render](https://render.com).
+3. Set the **Start Command** to:
+   ```
+   streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+   ```
+4. Deploy.
 
-The included `vercel.json` and `api/index.py` allow the project to deploy to Vercel without errors — Vercel will serve an informational landing page explaining how to run the app.
-
-### ✅ Streamlit Community Cloud (recommended)
+### ✅ Streamlit Community Cloud
 1. Push this repo to GitHub.
 2. Go to https://streamlit.io/cloud and sign in.
 3. Click **New app** → select your repo → set **Main file path** to `app.py`.
-4. Add any required secrets in the Streamlit Cloud dashboard.
-5. Deploy.
+4. Deploy.
 
-> **Note:** Streamlit Cloud does not have Ollama available. For the AI career advice feature to work, you would need to replace the `ollama` call in `agent.py` with an API-based LLM (e.g. OpenAI).
+### ⚠️ Vercel
+Vercel cannot run Streamlit apps. The included `vercel.json` and `api/index.py` serve a static landing page on Vercel instead.
 
 ---
 
 ## Project Structure
 
 ```
-├── app.py              # Streamlit UI
-├── agent.py            # AI career advice via Ollama phi3
+├── app.py              # Streamlit UI and salary prediction
 ├── train_model.py      # Model training script
 ├── requirements.txt    # Python dependencies
 ├── vercel.json         # Vercel deployment config (landing page only)

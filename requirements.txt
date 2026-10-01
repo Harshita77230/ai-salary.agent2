@@ -1,8 +1,5 @@
 pandas
 numpy
-scikit-learn
+scikit-learn==1.8.0
 streamlit
 joblib
-langchain
-openai
-python-dotenv
