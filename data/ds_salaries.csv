@@ -1,9 +1,901 @@
 experience_level,employment_type,job_title,company_location,company_size,remote_ratio,salary_in_usd
-EN,FT,Data Scientist,US,L,100,120000
-MI,FT,Python Developer,IN,M,50,60000
-SE,FT,Machine Learning Engineer,US,L,100,150000
-EN,FT,Data Analyst,IN,M,0,50000
-MI,FT,AI Engineer,UK,L,100,90000
-SE,FT,Data Scientist,US,M,50,130000
-EN,PT,Web Developer,IN,S,0,40000
-MI,FT,ML Engineer,CA,L,100,110000
+EN,FT,Data Analyst,BR,M,50,30000
+EN,FT,Data Analyst,AU,S,0,39000
+SE,FT,Data Analyst,BR,L,100,54000
+EX,FT,Data Analyst,DE,M,50,105000
+EX,FT,Data Analyst,AU,M,100,101000
+MI,FT,Data Analyst,UK,S,50,46000
+EX,FT,Data Analyst,ES,S,50,72000
+SE,FT,Data Analyst,IN,S,100,42000
+SE,FT,Data Analyst,BR,L,0,54000
+MI,FT,Data Analyst,US,M,0,72000
+EX,FT,Data Analyst,BR,M,100,63000
+EX,FT,Data Analyst,IN,S,50,42000
+MI,FT,Data Analyst,CA,L,50,69000
+SE,FT,Data Analyst,AU,L,50,97000
+SE,FT,Data Analyst,BR,S,0,44000
+MI,FT,Data Analyst,ES,L,50,51000
+EN,FT,Data Analyst,AU,M,0,36000
+EX,FT,Data Analyst,US,L,100,149000
+MI,FT,Data Analyst,BR,S,100,34000
+SE,FT,Data Analyst,FR,S,0,49000
+MI,FT,Data Analyst,AU,M,50,61000
+EN,FT,Data Analyst,BR,M,50,28000
+EN,FT,Data Analyst,FR,L,0,35000
+MI,FT,Data Analyst,DE,L,0,60000
+EX,FT,Data Analyst,ES,S,0,55000
+EX,FT,Data Analyst,UK,L,0,118000
+EN,FT,Data Analyst,FR,M,100,42000
+MI,FT,Data Analyst,DE,M,100,53000
+MI,FT,Data Analyst,US,S,0,62000
+SE,FT,Data Analyst,DE,L,0,80000
+EX,FT,Data Analyst,CA,M,100,111000
+EN,FT,Data Analyst,IN,S,0,19000
+SE,FT,Data Analyst,IN,L,0,41000
+MI,FT,Data Analyst,NL,M,100,63000
+MI,FT,Data Analyst,UK,L,100,82000
+MI,FT,Data Analyst,BR,L,50,41000
+EN,FT,Data Analyst,US,M,100,52000
+SE,FT,Data Analyst,UK,L,0,90000
+SE,FT,Data Analyst,CA,M,100,96000
+MI,FT,Data Analyst,BR,M,50,40000
+EN,FT,Data Analyst,FR,S,50,28000
+EX,FT,Data Analyst,DE,L,0,102000
+EN,FT,Data Analyst,IN,M,0,19000
+EN,FT,Data Analyst,FR,L,0,47000
+EX,FT,Data Analyst,FR,M,50,91000
+MI,FT,Data Analyst,US,S,100,63000
+MI,FT,Data Analyst,BR,S,0,31000
+SE,FT,Data Analyst,DE,M,100,78000
+SE,FT,Data Analyst,DE,L,0,76000
+SE,FT,Data Analyst,FR,L,50,68000
+MI,FT,Data Analyst,ES,S,100,38000
+MI,FT,Data Analyst,FR,S,0,45000
+EN,FT,Data Analyst,UK,S,50,40000
+EX,FT,Data Analyst,BR,S,0,58000
+EX,FT,Data Analyst,UK,S,0,84000
+SE,FT,Data Analyst,IN,S,100,41000
+EX,FT,Data Analyst,IN,S,100,45000
+SE,FT,Data Analyst,FR,L,0,86000
+EN,FT,Data Analyst,CA,M,0,43000
+EX,FT,Data Analyst,NL,S,100,89000
+EX,FT,Data Scientist,ES,S,100,111000
+MI,FT,Data Scientist,IN,S,100,48000
+MI,FT,Data Scientist,IN,L,0,60000
+MI,FT,Data Scientist,UK,S,100,81000
+EN,FT,Data Scientist,CA,S,100,58000
+SE,FT,Data Scientist,CA,M,50,148000
+EN,FT,Data Scientist,CA,S,0,64000
+MI,FT,Data Scientist,NL,M,50,79000
+EX,FT,Data Scientist,US,S,0,133000
+EN,FT,Data Scientist,AU,L,0,72000
+EX,FT,Data Scientist,AU,L,50,161000
+EX,FT,Data Scientist,ES,S,100,118000
+EX,FT,Data Scientist,CA,M,0,182000
+EN,FT,Data Scientist,IN,L,0,40000
+SE,FT,Data Scientist,AU,S,100,101000
+EX,FT,Data Scientist,NL,M,0,141000
+EN,FT,Data Scientist,AU,L,0,64000
+SE,FT,Data Scientist,DE,S,100,106000
+EN,FT,Data Scientist,NL,L,100,75000
+SE,FT,Data Scientist,BR,L,0,76000
+MI,FT,Data Scientist,ES,S,100,61000
+MI,FT,Data Scientist,FR,L,50,107000
+EX,FT,Data Scientist,AU,S,50,126000
+EX,FT,Data Scientist,DE,S,50,138000
+MI,FT,Data Scientist,DE,M,0,78000
+EX,FT,Data Scientist,BR,L,100,107000
+EX,FT,Data Scientist,US,M,50,165000
+EN,FT,Data Scientist,ES,S,0,38000
+EX,FT,Data Scientist,NL,M,0,130000
+SE,FT,Data Scientist,CA,M,0,108000
+SE,FT,Data Scientist,US,S,0,102000
+MI,FT,Data Scientist,FR,M,100,86000
+EX,FT,Data Scientist,IN,L,50,108000
+EX,FT,Data Scientist,ES,M,0,106000
+EX,FT,Data Scientist,UK,S,0,133000
+EX,FT,Data Scientist,DE,S,0,114000
+EX,FT,Data Scientist,FR,L,0,167000
+EN,FT,Data Scientist,US,M,100,73000
+EX,FT,Data Scientist,ES,L,100,170000
+MI,FT,Data Scientist,ES,M,100,82000
+SE,FT,Data Scientist,BR,L,0,87000
+MI,FT,Data Scientist,FR,L,100,100000
+EX,FT,Data Scientist,IN,L,50,91000
+EN,FT,Data Scientist,CA,M,50,71000
+SE,FT,Data Scientist,UK,M,50,122000
+SE,FT,Data Scientist,IN,M,50,70000
+EN,FT,Data Scientist,UK,L,100,94000
+EX,FT,Data Scientist,DE,L,0,162000
+EX,FT,Data Scientist,ES,M,50,134000
+SE,FT,Data Scientist,FR,L,50,117000
+EN,FT,Data Scientist,BR,S,0,37000
+SE,FT,Data Scientist,ES,L,0,109000
+SE,FT,Data Scientist,US,M,100,133000
+SE,FT,Data Scientist,NL,L,0,143000
+EN,FT,Data Scientist,ES,M,50,57000
+EX,FT,Data Scientist,BR,L,100,112000
+SE,FT,Data Scientist,FR,S,0,91000
+EN,FT,Data Scientist,CA,S,50,63000
+MI,FT,Data Scientist,DE,L,50,110000
+EX,FT,Data Scientist,BR,M,50,103000
+EN,FT,ML Engineer,NL,L,0,66000
+SE,FT,ML Engineer,US,M,50,155000
+EX,FT,ML Engineer,BR,S,100,93000
+SE,FT,ML Engineer,ES,L,100,119000
+EX,FT,ML Engineer,IN,M,0,79000
+EX,FT,ML Engineer,CA,S,100,162000
+SE,FT,ML Engineer,IN,S,100,66000
+EX,FT,ML Engineer,NL,M,100,167000
+EN,FT,ML Engineer,IN,M,100,44000
+EX,FT,ML Engineer,NL,M,0,168000
+EX,FT,ML Engineer,AU,S,0,139000
+EN,FT,ML Engineer,AU,M,0,67000
+SE,FT,ML Engineer,ES,M,0,99000
+MI,FT,ML Engineer,DE,S,0,88000
+SE,FT,ML Engineer,BR,M,0,94000
+EN,FT,ML Engineer,ES,L,0,69000
+EN,FT,ML Engineer,CA,M,100,87000
+EN,FT,ML Engineer,AU,M,0,77000
+EX,FT,ML Engineer,US,S,0,145000
+EX,FT,ML Engineer,BR,L,0,134000
+MI,FT,ML Engineer,AU,L,0,95000
+EN,FT,ML Engineer,US,L,50,108000
+EX,FT,ML Engineer,UK,S,100,137000
+SE,FT,ML Engineer,ES,L,100,138000
+EX,FT,ML Engineer,AU,L,100,175000
+MI,FT,ML Engineer,UK,S,0,87000
+SE,FT,ML Engineer,BR,M,50,95000
+MI,FT,ML Engineer,CA,L,100,123000
+EN,FT,ML Engineer,UK,S,100,77000
+SE,FT,ML Engineer,AU,M,0,130000
+EN,FT,ML Engineer,US,S,100,82000
+MI,FT,ML Engineer,CA,M,0,96000
+MI,FT,ML Engineer,NL,M,50,105000
+MI,FT,ML Engineer,AU,L,50,105000
+EN,FT,ML Engineer,NL,M,0,67000
+SE,FT,ML Engineer,AU,S,50,127000
+EN,FT,ML Engineer,CA,M,50,77000
+EX,FT,ML Engineer,DE,S,0,115000
+EX,FT,ML Engineer,UK,S,0,139000
+EX,FT,ML Engineer,AU,M,50,164000
+EN,FT,ML Engineer,DE,L,0,77000
+SE,FT,ML Engineer,IN,L,0,77000
+MI,FT,ML Engineer,DE,S,0,80000
+MI,FT,ML Engineer,FR,M,100,101000
+SE,FT,ML Engineer,AU,M,0,136000
+MI,FT,ML Engineer,FR,S,50,81000
+SE,FT,ML Engineer,IN,L,50,89000
+SE,FT,ML Engineer,ES,S,100,94000
+SE,FT,ML Engineer,FR,S,100,100000
+SE,FT,ML Engineer,ES,M,50,93000
+EN,FT,ML Engineer,US,L,100,90000
+EN,FT,ML Engineer,UK,M,50,68000
+SE,FT,ML Engineer,IN,S,100,55000
+MI,FT,ML Engineer,ES,L,100,95000
+SE,FT,ML Engineer,CA,S,50,109000
+SE,FT,ML Engineer,IN,M,100,88000
+MI,FT,ML Engineer,BR,M,0,67000
+EN,FT,ML Engineer,BR,L,50,56000
+MI,FT,ML Engineer,US,L,0,135000
+MI,FT,ML Engineer,CA,L,0,135000
+EX,FT,AI Engineer,NL,L,50,211000
+EX,FT,AI Engineer,NL,M,0,155000
+EX,FT,AI Engineer,IN,S,0,84000
+EN,FT,AI Engineer,DE,M,50,64000
+MI,FT,AI Engineer,CA,S,100,90000
+SE,FT,AI Engineer,UK,S,0,116000
+EX,FT,AI Engineer,FR,L,50,159000
+MI,FT,AI Engineer,UK,L,100,140000
+SE,FT,AI Engineer,AU,M,100,156000
+SE,FT,AI Engineer,US,L,50,192000
+EX,FT,AI Engineer,IN,L,100,116000
+SE,FT,AI Engineer,BR,L,100,108000
+MI,FT,AI Engineer,NL,S,50,95000
+MI,FT,AI Engineer,IN,M,50,59000
+SE,FT,AI Engineer,CA,S,50,145000
+SE,FT,AI Engineer,AU,M,0,124000
+MI,FT,AI Engineer,CA,S,0,106000
+SE,FT,AI Engineer,DE,M,0,128000
+SE,FT,AI Engineer,US,M,0,166000
+SE,FT,AI Engineer,AU,L,100,172000
+EX,FT,AI Engineer,DE,L,100,225000
+SE,FT,AI Engineer,BR,S,100,87000
+MI,FT,AI Engineer,ES,S,0,73000
+EX,FT,AI Engineer,DE,M,50,174000
+MI,FT,AI Engineer,NL,S,100,84000
+EX,FT,AI Engineer,BR,L,100,131000
+EN,FT,AI Engineer,CA,S,0,72000
+EX,FT,AI Engineer,DE,L,100,199000
+MI,FT,AI Engineer,NL,S,50,93000
+SE,FT,AI Engineer,US,S,50,153000
+MI,FT,AI Engineer,NL,M,100,91000
+EN,FT,AI Engineer,IN,L,0,40000
+EX,FT,AI Engineer,AU,L,100,229000
+EN,FT,AI Engineer,ES,L,100,79000
+MI,FT,AI Engineer,US,L,0,144000
+EN,FT,AI Engineer,ES,M,0,57000
+MI,FT,AI Engineer,AU,M,0,98000
+SE,FT,AI Engineer,ES,M,100,106000
+MI,FT,AI Engineer,ES,M,50,94000
+EX,FT,AI Engineer,UK,L,50,205000
+EN,FT,AI Engineer,UK,M,100,75000
+SE,FT,AI Engineer,US,L,50,202000
+MI,FT,AI Engineer,ES,M,100,84000
+EX,FT,AI Engineer,DE,M,0,161000
+EN,FT,AI Engineer,NL,L,100,88000
+EN,FT,AI Engineer,IN,M,100,43000
+MI,FT,AI Engineer,CA,S,50,86000
+MI,FT,AI Engineer,UK,M,0,104000
+EX,FT,AI Engineer,AU,L,50,196000
+EX,FT,AI Engineer,NL,L,100,203000
+EX,FT,AI Engineer,UK,M,100,178000
+SE,FT,AI Engineer,IN,L,100,92000
+EX,FT,AI Engineer,BR,S,50,101000
+EN,FT,AI Engineer,UK,L,0,81000
+EN,FT,AI Engineer,CA,M,100,81000
+EN,FT,AI Engineer,FR,S,100,65000
+SE,FT,AI Engineer,DE,L,50,173000
+SE,FT,AI Engineer,AU,S,100,138000
+MI,FT,AI Engineer,BR,M,0,67000
+MI,FT,AI Engineer,CA,M,50,133000
+EX,FT,Machine Learning Engineer,FR,L,50,156000
+EX,FT,Machine Learning Engineer,NL,L,0,157000
+EN,FT,Machine Learning Engineer,UK,M,0,74000
+MI,FT,Machine Learning Engineer,FR,L,0,90000
+EX,FT,Machine Learning Engineer,CA,M,50,167000
+EX,FT,Machine Learning Engineer,AU,M,0,156000
+MI,FT,Machine Learning Engineer,IN,S,50,42000
+MI,FT,Machine Learning Engineer,CA,M,100,104000
+EN,FT,Machine Learning Engineer,FR,S,50,55000
+MI,FT,Machine Learning Engineer,DE,M,100,117000
+SE,FT,Machine Learning Engineer,UK,S,0,108000
+EX,FT,Machine Learning Engineer,DE,L,100,184000
+SE,FT,Machine Learning Engineer,IN,S,100,58000
+MI,FT,Machine Learning Engineer,DE,L,100,109000
+SE,FT,Machine Learning Engineer,US,S,0,150000
+EN,FT,Machine Learning Engineer,US,L,0,84000
+EN,FT,Machine Learning Engineer,CA,L,50,88000
+EN,FT,Machine Learning Engineer,FR,S,50,63000
+MI,FT,Machine Learning Engineer,US,S,100,118000
+MI,FT,Machine Learning Engineer,CA,L,100,156000
+MI,FT,Machine Learning Engineer,UK,S,100,98000
+EX,FT,Machine Learning Engineer,AU,L,100,203000
+SE,FT,Machine Learning Engineer,ES,S,0,97000
+EN,FT,Machine Learning Engineer,AU,S,0,59000
+SE,FT,Machine Learning Engineer,IN,L,0,71000
+SE,FT,Machine Learning Engineer,IN,M,0,65000
+SE,FT,Machine Learning Engineer,BR,L,100,116000
+EX,FT,Machine Learning Engineer,IN,S,100,88000
+EN,FT,Machine Learning Engineer,CA,L,0,95000
+EN,FT,Machine Learning Engineer,CA,L,50,109000
+MI,FT,Machine Learning Engineer,US,L,0,160000
+SE,FT,Machine Learning Engineer,FR,M,0,132000
+EN,FT,Machine Learning Engineer,ES,M,50,62000
+EN,FT,Machine Learning Engineer,UK,L,0,88000
+EN,FT,Machine Learning Engineer,UK,M,50,87000
+EN,FT,Machine Learning Engineer,US,S,50,70000
+EX,FT,Machine Learning Engineer,ES,L,0,158000
+EN,FT,Machine Learning Engineer,FR,M,50,71000
+SE,FT,Machine Learning Engineer,BR,L,50,111000
+SE,FT,Machine Learning Engineer,NL,S,50,112000
+EX,FT,Machine Learning Engineer,US,S,100,189000
+MI,FT,Machine Learning Engineer,DE,L,0,123000
+SE,FT,Machine Learning Engineer,IN,S,100,60000
+MI,FT,Machine Learning Engineer,NL,S,0,74000
+EX,FT,Machine Learning Engineer,ES,L,100,154000
+MI,FT,Machine Learning Engineer,DE,L,100,136000
+SE,FT,Machine Learning Engineer,IN,M,50,81000
+SE,FT,Machine Learning Engineer,BR,M,100,96000
+MI,FT,Machine Learning Engineer,CA,L,100,157000
+EX,FT,Machine Learning Engineer,BR,M,0,98000
+MI,FT,Machine Learning Engineer,BR,M,0,75000
+EX,FT,Machine Learning Engineer,IN,L,100,130000
+SE,FT,Machine Learning Engineer,IN,M,0,74000
+SE,FT,Machine Learning Engineer,FR,M,50,128000
+SE,FT,Machine Learning Engineer,NL,M,50,119000
+MI,FT,Machine Learning Engineer,IN,M,50,52000
+MI,FT,Machine Learning Engineer,CA,S,100,99000
+EN,FT,Machine Learning Engineer,NL,L,0,68000
+MI,FT,Machine Learning Engineer,BR,M,100,68000
+MI,FT,Machine Learning Engineer,UK,L,0,123000
+EN,FT,Data Engineer,DE,M,0,54000
+EN,FT,Data Engineer,DE,S,100,61000
+SE,FT,Data Engineer,DE,L,0,122000
+EN,FT,Data Engineer,UK,S,100,72000
+EX,FT,Data Engineer,NL,S,100,156000
+MI,FT,Data Engineer,NL,M,0,79000
+EX,FT,Data Engineer,IN,S,50,66000
+EX,FT,Data Engineer,ES,L,50,150000
+SE,FT,Data Engineer,CA,S,0,101000
+EN,FT,Data Engineer,ES,M,50,59000
+SE,FT,Data Engineer,UK,L,50,148000
+EN,FT,Data Engineer,BR,S,100,37000
+SE,FT,Data Engineer,NL,M,0,128000
+SE,FT,Data Engineer,CA,M,0,146000
+SE,FT,Data Engineer,CA,M,50,137000
+EN,FT,Data Engineer,UK,L,100,97000
+SE,FT,Data Engineer,ES,L,50,117000
+SE,FT,Data Engineer,UK,S,0,96000
+EN,FT,Data Engineer,NL,S,100,63000
+MI,FT,Data Engineer,FR,S,50,75000
+MI,FT,Data Engineer,FR,L,50,90000
+MI,FT,Data Engineer,CA,S,100,95000
+EX,FT,Data Engineer,NL,S,0,126000
+EX,FT,Data Engineer,UK,S,0,117000
+MI,FT,Data Engineer,CA,S,100,91000
+EX,FT,Data Engineer,AU,S,50,133000
+SE,FT,Data Engineer,FR,M,0,124000
+EN,FT,Data Engineer,ES,L,100,66000
+EX,FT,Data Engineer,CA,L,100,204000
+SE,FT,Data Engineer,US,L,50,190000
+SE,FT,Data Engineer,AU,S,100,123000
+EX,FT,Data Engineer,UK,S,100,148000
+MI,FT,Data Engineer,AU,L,0,123000
+MI,FT,Data Engineer,UK,L,0,111000
+EX,FT,Data Engineer,CA,M,0,175000
+MI,FT,Data Engineer,IN,S,100,45000
+MI,FT,Data Engineer,BR,L,50,77000
+SE,FT,Data Engineer,FR,S,50,110000
+SE,FT,Data Engineer,IN,M,0,70000
+EX,FT,Data Engineer,ES,M,0,121000
+MI,FT,Data Engineer,ES,L,100,108000
+MI,FT,Data Engineer,FR,L,50,95000
+MI,FT,Data Engineer,NL,L,50,114000
+MI,FT,Data Engineer,DE,L,50,114000
+SE,FT,Data Engineer,FR,L,100,134000
+EN,FT,Data Engineer,AU,M,50,67000
+MI,FT,Data Engineer,DE,S,0,66000
+MI,FT,Data Engineer,AU,S,50,87000
+MI,FT,Data Engineer,US,L,0,117000
+EN,FT,Data Engineer,BR,L,100,50000
+EX,FT,Data Engineer,AU,S,0,121000
+EX,FT,Data Engineer,CA,S,0,151000
+EX,FT,Data Engineer,NL,L,0,169000
+SE,FT,Data Engineer,BR,L,100,103000
+SE,FT,Data Engineer,UK,S,50,107000
+SE,FT,Data Engineer,NL,M,50,127000
+SE,FT,Data Engineer,US,M,50,169000
+EX,FT,Data Engineer,AU,M,50,182000
+EX,FT,Data Engineer,ES,S,0,105000
+SE,FT,Data Engineer,DE,M,50,114000
+EX,FT,Analytics Engineer,UK,M,100,174000
+MI,FT,Analytics Engineer,ES,L,100,88000
+EX,FT,Analytics Engineer,BR,S,100,81000
+SE,FT,Analytics Engineer,DE,L,0,119000
+SE,FT,Analytics Engineer,UK,S,0,96000
+MI,FT,Analytics Engineer,DE,S,0,71000
+MI,FT,Analytics Engineer,ES,M,0,55000
+EN,FT,Analytics Engineer,IN,M,100,38000
+EN,FT,Analytics Engineer,CA,L,100,71000
+EN,FT,Analytics Engineer,IN,M,100,31000
+EX,FT,Analytics Engineer,CA,S,50,136000
+EX,FT,Analytics Engineer,NL,S,100,103000
+EX,FT,Analytics Engineer,CA,M,100,151000
+MI,FT,Analytics Engineer,ES,S,50,51000
+SE,FT,Analytics Engineer,ES,M,0,82000
+SE,FT,Analytics Engineer,FR,S,50,89000
+EX,FT,Analytics Engineer,AU,S,100,144000
+EN,FT,Analytics Engineer,FR,S,0,47000
+EN,FT,Analytics Engineer,NL,S,0,45000
+EN,FT,Analytics Engineer,DE,S,0,48000
+EX,FT,Analytics Engineer,IN,S,100,76000
+EX,FT,Analytics Engineer,ES,L,50,122000
+EN,FT,Analytics Engineer,BR,L,100,47000
+EN,FT,Analytics Engineer,ES,S,0,43000
+EX,FT,Analytics Engineer,US,S,0,137000
+MI,FT,Analytics Engineer,US,M,0,82000
+EN,FT,Analytics Engineer,DE,L,100,59000
+MI,FT,Analytics Engineer,AU,L,100,92000
+EN,FT,Analytics Engineer,CA,S,100,65000
+SE,FT,Analytics Engineer,FR,M,100,91000
+MI,FT,Analytics Engineer,IN,M,100,46000
+MI,FT,Analytics Engineer,BR,S,50,50000
+SE,FT,Analytics Engineer,DE,S,50,81000
+SE,FT,Analytics Engineer,UK,M,100,107000
+EX,FT,Analytics Engineer,US,M,0,144000
+EN,FT,Analytics Engineer,ES,S,50,47000
+EX,FT,Analytics Engineer,CA,L,50,174000
+EX,FT,Analytics Engineer,IN,S,100,79000
+EX,FT,Analytics Engineer,ES,M,0,97000
+MI,FT,Analytics Engineer,AU,L,0,99000
+EN,FT,Analytics Engineer,FR,L,50,68000
+MI,FT,Analytics Engineer,BR,M,0,45000
+EX,FT,Analytics Engineer,AU,M,50,130000
+MI,FT,Analytics Engineer,DE,S,100,79000
+MI,FT,Analytics Engineer,FR,S,50,61000
+EN,FT,Analytics Engineer,FR,S,0,44000
+SE,FT,Analytics Engineer,AU,L,0,102000
+EN,FT,Analytics Engineer,UK,M,100,69000
+EX,FT,Analytics Engineer,CA,L,100,184000
+EX,FT,Analytics Engineer,DE,L,100,139000
+MI,FT,Analytics Engineer,UK,M,50,81000
+MI,FT,Analytics Engineer,AU,S,0,60000
+MI,FT,Analytics Engineer,UK,S,50,68000
+EN,FT,Analytics Engineer,CA,M,100,66000
+MI,FT,Analytics Engineer,IN,S,0,36000
+MI,FT,Analytics Engineer,UK,L,50,94000
+EX,FT,Analytics Engineer,ES,S,100,88000
+EX,FT,Analytics Engineer,CA,S,0,129000
+MI,FT,Analytics Engineer,CA,S,100,90000
+EN,FT,Analytics Engineer,ES,L,50,63000
+MI,FT,Research Scientist,US,S,50,107000
+MI,FT,Research Scientist,NL,S,50,97000
+EX,FT,Research Scientist,CA,L,100,242000
+SE,FT,Research Scientist,DE,S,100,117000
+EX,FT,Research Scientist,IN,L,50,102000
+SE,FT,Research Scientist,IN,S,0,56000
+EX,FT,Research Scientist,ES,S,50,119000
+SE,FT,Research Scientist,DE,M,50,141000
+MI,FT,Research Scientist,NL,L,100,123000
+EX,FT,Research Scientist,IN,S,50,87000
+MI,FT,Research Scientist,DE,S,50,91000
+MI,FT,Research Scientist,IN,L,50,67000
+SE,FT,Research Scientist,US,S,0,148000
+EX,FT,Research Scientist,IN,L,0,111000
+EX,FT,Research Scientist,BR,M,0,123000
+EX,FT,Research Scientist,NL,S,50,154000
+EX,FT,Research Scientist,US,M,100,222000
+EN,FT,Research Scientist,NL,L,50,73000
+SE,FT,Research Scientist,US,L,100,211000
+EN,FT,Research Scientist,US,M,100,109000
+EN,FT,Research Scientist,DE,S,50,54000
+SE,FT,Research Scientist,BR,L,0,113000
+EX,FT,Research Scientist,IN,L,50,107000
+SE,FT,Research Scientist,CA,M,100,165000
+EN,FT,Research Scientist,FR,S,100,71000
+EX,FT,Research Scientist,ES,L,0,164000
+EX,FT,Research Scientist,ES,M,50,128000
+MI,FT,Research Scientist,ES,M,50,90000
+SE,FT,Research Scientist,NL,L,50,153000
+EX,FT,Research Scientist,IN,S,50,75000
+EX,FT,Research Scientist,BR,S,100,99000
+SE,FT,Research Scientist,IN,L,100,81000
+EX,FT,Research Scientist,FR,M,50,173000
+SE,FT,Research Scientist,CA,M,100,159000
+EX,FT,Research Scientist,AU,S,0,145000
+EX,FT,Research Scientist,FR,L,0,160000
+SE,FT,Research Scientist,CA,M,50,138000
+SE,FT,Research Scientist,NL,S,50,126000
+MI,FT,Research Scientist,NL,S,0,89000
+EX,FT,Research Scientist,ES,L,50,164000
+EN,FT,Research Scientist,DE,M,0,71000
+MI,FT,Research Scientist,NL,M,100,95000
+EN,FT,Research Scientist,BR,M,0,54000
+MI,FT,Research Scientist,US,S,100,130000
+EX,FT,Research Scientist,CA,S,0,178000
+EX,FT,Research Scientist,CA,L,50,259000
+EX,FT,Research Scientist,FR,L,50,185000
+EX,FT,Research Scientist,US,S,100,184000
+EX,FT,Research Scientist,CA,M,0,217000
+EN,FT,Research Scientist,US,L,100,120000
+SE,FT,Research Scientist,ES,S,100,113000
+MI,FT,Research Scientist,NL,M,0,109000
+MI,FT,Research Scientist,FR,M,50,111000
+EN,FT,Research Scientist,NL,M,100,77000
+MI,FT,Research Scientist,DE,L,50,116000
+EN,FT,Research Scientist,IN,S,0,30000
+SE,FT,Research Scientist,BR,L,50,121000
+EX,FT,Research Scientist,AU,S,0,132000
+EX,FT,Research Scientist,UK,S,100,156000
+MI,FT,Research Scientist,FR,M,100,119000
+EN,FT,Applied Scientist,UK,M,0,70000
+EX,FT,Applied Scientist,US,S,0,180000
+MI,FT,Applied Scientist,NL,S,50,93000
+EX,FT,Applied Scientist,UK,M,100,208000
+SE,FT,Applied Scientist,ES,M,100,115000
+EN,FT,Applied Scientist,US,M,0,87000
+SE,FT,Applied Scientist,NL,L,50,169000
+EN,FT,Applied Scientist,FR,M,0,63000
+EN,FT,Applied Scientist,AU,S,100,68000
+EX,FT,Applied Scientist,UK,L,100,208000
+SE,FT,Applied Scientist,NL,L,0,131000
+SE,FT,Applied Scientist,DE,M,50,136000
+EX,FT,Applied Scientist,DE,S,100,154000
+SE,FT,Applied Scientist,DE,L,50,136000
+SE,FT,Applied Scientist,FR,S,0,108000
+SE,FT,Applied Scientist,US,M,100,179000
+MI,FT,Applied Scientist,ES,S,50,65000
+EX,FT,Applied Scientist,ES,L,50,182000
+EX,FT,Applied Scientist,DE,M,50,191000
+EX,FT,Applied Scientist,AU,S,50,162000
+EX,FT,Applied Scientist,AU,L,100,211000
+SE,FT,Applied Scientist,DE,M,100,143000
+EN,FT,Applied Scientist,BR,M,50,46000
+SE,FT,Applied Scientist,BR,M,0,80000
+MI,FT,Applied Scientist,AU,S,100,110000
+SE,FT,Applied Scientist,UK,M,0,162000
+EX,FT,Applied Scientist,CA,S,0,152000
+MI,FT,Applied Scientist,FR,S,100,96000
+EN,FT,Applied Scientist,BR,L,0,53000
+EX,FT,Applied Scientist,DE,L,0,176000
+EN,FT,Applied Scientist,IN,M,0,41000
+EX,FT,Applied Scientist,BR,S,0,95000
+EN,FT,Applied Scientist,BR,M,100,58000
+EN,FT,Applied Scientist,DE,M,100,72000
+MI,FT,Applied Scientist,IN,S,0,49000
+MI,FT,Applied Scientist,IN,L,0,71000
+EN,FT,Applied Scientist,IN,S,0,31000
+EN,FT,Applied Scientist,DE,L,0,78000
+EX,FT,Applied Scientist,UK,M,100,227000
+MI,FT,Applied Scientist,DE,M,50,117000
+SE,FT,Applied Scientist,NL,M,50,152000
+EX,FT,Applied Scientist,NL,M,100,179000
+EX,FT,Applied Scientist,US,L,0,237000
+MI,FT,Applied Scientist,DE,M,50,107000
+EX,FT,Applied Scientist,FR,M,100,152000
+SE,FT,Applied Scientist,UK,S,100,148000
+EX,FT,Applied Scientist,NL,L,100,233000
+EN,FT,Applied Scientist,IN,S,50,34000
+EX,FT,Applied Scientist,AU,M,100,182000
+EX,FT,Applied Scientist,FR,M,0,140000
+EN,FT,Applied Scientist,CA,L,0,106000
+EX,FT,Applied Scientist,DE,S,100,163000
+SE,FT,Applied Scientist,CA,L,0,188000
+EX,FT,Applied Scientist,UK,L,100,206000
+MI,FT,Applied Scientist,AU,L,100,123000
+EX,FT,Applied Scientist,UK,M,100,186000
+EN,FT,Applied Scientist,DE,L,50,79000
+EX,FT,Applied Scientist,BR,M,100,120000
+SE,FT,Applied Scientist,ES,L,0,106000
+SE,FT,Applied Scientist,FR,M,100,116000
+EN,FT,Business Intelligence Analyst,UK,L,50,67000
+EX,FT,Business Intelligence Analyst,US,S,50,130000
+EN,FT,Business Intelligence Analyst,IN,S,0,21000
+SE,FT,Business Intelligence Analyst,DE,M,50,98000
+SE,FT,Business Intelligence Analyst,AU,L,100,129000
+EN,FT,Business Intelligence Analyst,DE,M,50,55000
+EN,FT,Business Intelligence Analyst,UK,L,100,70000
+EX,FT,Business Intelligence Analyst,US,M,50,130000
+EN,FT,Business Intelligence Analyst,CA,M,50,53000
+EN,FT,Business Intelligence Analyst,BR,S,100,32000
+SE,FT,Business Intelligence Analyst,UK,M,0,86000
+MI,FT,Business Intelligence Analyst,CA,S,100,69000
+EX,FT,Business Intelligence Analyst,UK,M,100,127000
+MI,FT,Business Intelligence Analyst,US,S,0,73000
+MI,FT,Business Intelligence Analyst,BR,S,0,43000
+SE,FT,Business Intelligence Analyst,ES,S,100,61000
+SE,FT,Business Intelligence Analyst,US,L,100,128000
+EN,FT,Business Intelligence Analyst,AU,M,100,48000
+EN,FT,Business Intelligence Analyst,BR,S,100,32000
+EX,FT,Business Intelligence Analyst,DE,S,100,102000
+EX,FT,Business Intelligence Analyst,BR,S,100,74000
+SE,FT,Business Intelligence Analyst,UK,M,0,86000
+MI,FT,Business Intelligence Analyst,FR,L,50,77000
+EX,FT,Business Intelligence Analyst,IN,L,100,89000
+EX,FT,Business Intelligence Analyst,UK,L,100,159000
+MI,FT,Business Intelligence Analyst,FR,L,0,77000
+MI,FT,Business Intelligence Analyst,NL,S,100,69000
+EN,FT,Business Intelligence Analyst,NL,M,50,50000
+SE,FT,Business Intelligence Analyst,DE,S,100,70000
+SE,FT,Business Intelligence Analyst,DE,M,100,87000
+SE,FT,Business Intelligence Analyst,BR,M,50,70000
+MI,FT,Business Intelligence Analyst,ES,L,0,68000
+EN,FT,Business Intelligence Analyst,IN,S,50,25000
+EX,FT,Business Intelligence Analyst,ES,L,0,95000
+EX,FT,Business Intelligence Analyst,BR,S,50,66000
+MI,FT,Business Intelligence Analyst,US,M,50,96000
+EX,FT,Business Intelligence Analyst,US,L,50,186000
+EX,FT,Business Intelligence Analyst,US,M,100,139000
+SE,FT,Business Intelligence Analyst,ES,S,100,74000
+MI,FT,Business Intelligence Analyst,UK,M,50,82000
+EX,FT,Business Intelligence Analyst,UK,L,0,117000
+MI,FT,Business Intelligence Analyst,NL,M,100,75000
+MI,FT,Business Intelligence Analyst,BR,L,50,54000
+EN,FT,Business Intelligence Analyst,DE,S,50,37000
+EN,FT,Business Intelligence Analyst,ES,L,100,47000
+EX,FT,Business Intelligence Analyst,FR,S,0,99000
+EN,FT,Business Intelligence Analyst,NL,L,100,56000
+EX,FT,Business Intelligence Analyst,CA,S,0,93000
+EN,FT,Business Intelligence Analyst,CA,M,0,61000
+EN,FT,Business Intelligence Analyst,US,S,0,54000
+SE,FT,Business Intelligence Analyst,FR,S,100,78000
+MI,FT,Business Intelligence Analyst,ES,S,50,49000
+EX,FT,Business Intelligence Analyst,BR,M,50,74000
+EN,FT,Business Intelligence Analyst,DE,S,0,43000
+EX,FT,Business Intelligence Analyst,UK,M,0,110000
+EX,FT,Business Intelligence Analyst,ES,L,0,110000
+SE,FT,Business Intelligence Analyst,ES,L,0,88000
+EN,FT,Business Intelligence Analyst,IN,L,0,32000
+SE,FT,Business Intelligence Analyst,NL,S,0,73000
+EN,FT,Business Intelligence Analyst,UK,M,50,56000
+MI,FT,Python Developer,AU,S,50,58000
+MI,FT,Python Developer,AU,M,100,85000
+SE,FT,Python Developer,US,L,50,133000
+MI,FT,Python Developer,US,L,0,99000
+EX,FT,Python Developer,BR,L,0,98000
+MI,FT,Python Developer,FR,S,100,61000
+SE,FT,Python Developer,DE,S,50,90000
+EX,FT,Python Developer,DE,L,50,142000
+EX,FT,Python Developer,BR,S,0,66000
+SE,FT,Python Developer,DE,M,100,99000
+SE,FT,Python Developer,DE,L,100,112000
+SE,FT,Python Developer,CA,M,0,91000
+SE,FT,Python Developer,US,M,50,128000
+SE,FT,Python Developer,BR,L,0,72000
+EX,FT,Python Developer,CA,S,100,111000
+MI,FT,Python Developer,AU,S,0,64000
+MI,FT,Python Developer,DE,S,100,60000
+EN,FT,Python Developer,NL,L,50,64000
+MI,FT,Python Developer,ES,M,100,59000
+SE,FT,Python Developer,UK,M,0,92000
+SE,FT,Python Developer,FR,L,100,123000
+EN,FT,Python Developer,FR,M,50,54000
+MI,FT,Python Developer,NL,S,0,59000
+SE,FT,Python Developer,ES,S,0,63000
+EN,FT,Python Developer,NL,M,100,60000
+SE,FT,Python Developer,BR,L,0,67000
+SE,FT,Python Developer,FR,S,50,76000
+SE,FT,Python Developer,AU,M,50,106000
+EX,FT,Python Developer,IN,M,0,58000
+MI,FT,Python Developer,CA,M,100,87000
+EN,FT,Python Developer,UK,S,100,51000
+EN,FT,Python Developer,US,L,0,64000
+MI,FT,Python Developer,AU,L,0,73000
+EN,FT,Python Developer,US,L,50,64000
+EN,FT,Python Developer,ES,S,0,36000
+EN,FT,Python Developer,DE,L,50,51000
+MI,FT,Python Developer,ES,M,100,55000
+SE,FT,Python Developer,CA,M,100,116000
+SE,FT,Python Developer,CA,L,0,125000
+EN,FT,Python Developer,BR,S,50,34000
+EX,FT,Python Developer,DE,M,0,113000
+EX,FT,Python Developer,IN,L,0,65000
+EN,FT,Python Developer,IN,M,100,27000
+MI,FT,Python Developer,DE,M,50,75000
+SE,FT,Python Developer,BR,M,100,72000
+EN,FT,Python Developer,CA,L,50,70000
+SE,FT,Python Developer,UK,S,0,77000
+SE,FT,Python Developer,DE,S,50,72000
+EN,FT,Python Developer,ES,M,100,41000
+SE,FT,Python Developer,NL,M,0,101000
+SE,FT,Python Developer,NL,M,0,96000
+SE,FT,Python Developer,NL,S,100,96000
+EN,FT,Python Developer,FR,L,0,59000
+EN,FT,Python Developer,AU,L,50,61000
+SE,FT,Python Developer,FR,M,0,91000
+SE,FT,Python Developer,US,L,100,158000
+SE,FT,Python Developer,DE,L,50,102000
+EX,FT,Python Developer,NL,S,100,103000
+EX,FT,Python Developer,CA,M,0,130000
+SE,FT,Python Developer,NL,M,100,90000
+EX,FT,NLP Engineer,ES,M,50,149000
+EX,FT,NLP Engineer,UK,M,50,199000
+EN,FT,NLP Engineer,UK,S,100,77000
+SE,FT,NLP Engineer,CA,M,0,145000
+EX,FT,NLP Engineer,IN,S,0,74000
+EX,FT,NLP Engineer,BR,S,0,84000
+EN,FT,NLP Engineer,ES,L,50,73000
+EN,FT,NLP Engineer,DE,L,100,86000
+EN,FT,NLP Engineer,CA,M,100,83000
+MI,FT,NLP Engineer,CA,S,0,96000
+EN,FT,NLP Engineer,US,M,0,73000
+EN,FT,NLP Engineer,DE,L,50,79000
+MI,FT,NLP Engineer,UK,M,0,105000
+MI,FT,NLP Engineer,IN,S,50,42000
+MI,FT,NLP Engineer,US,M,0,115000
+MI,FT,NLP Engineer,IN,L,100,65000
+EX,FT,NLP Engineer,FR,S,50,110000
+SE,FT,NLP Engineer,FR,L,50,133000
+SE,FT,NLP Engineer,CA,S,100,147000
+MI,FT,NLP Engineer,US,L,50,152000
+EX,FT,NLP Engineer,UK,L,100,221000
+MI,FT,NLP Engineer,NL,L,100,101000
+MI,FT,NLP Engineer,DE,L,50,100000
+EX,FT,NLP Engineer,IN,S,100,70000
+EN,FT,NLP Engineer,DE,S,100,58000
+EN,FT,NLP Engineer,DE,S,100,61000
+EN,FT,NLP Engineer,CA,S,0,72000
+EX,FT,NLP Engineer,UK,L,50,178000
+SE,FT,NLP Engineer,DE,S,100,112000
+EX,FT,NLP Engineer,NL,L,0,175000
+SE,FT,NLP Engineer,ES,S,50,84000
+MI,FT,NLP Engineer,ES,L,50,95000
+EX,FT,NLP Engineer,NL,S,0,121000
+EN,FT,NLP Engineer,US,M,50,79000
+SE,FT,NLP Engineer,AU,M,0,132000
+MI,FT,NLP Engineer,UK,M,50,102000
+MI,FT,NLP Engineer,BR,M,50,64000
+EN,FT,NLP Engineer,ES,S,50,45000
+EN,FT,NLP Engineer,NL,M,50,59000
+SE,FT,NLP Engineer,DE,M,0,110000
+SE,FT,NLP Engineer,BR,M,0,89000
+EX,FT,NLP Engineer,NL,S,50,144000
+MI,FT,NLP Engineer,BR,L,100,76000
+SE,FT,NLP Engineer,CA,S,50,125000
+EX,FT,NLP Engineer,CA,M,50,158000
+EN,FT,NLP Engineer,NL,M,0,56000
+EX,FT,NLP Engineer,CA,L,0,188000
+EX,FT,NLP Engineer,US,M,0,174000
+EX,FT,NLP Engineer,IN,M,50,88000
+MI,FT,NLP Engineer,IN,S,0,39000
+EN,FT,NLP Engineer,UK,S,100,77000
+MI,FT,NLP Engineer,NL,S,50,83000
+EX,FT,NLP Engineer,IN,S,100,89000
+SE,FT,NLP Engineer,ES,M,100,109000
+EN,FT,NLP Engineer,BR,L,100,53000
+EN,FT,NLP Engineer,NL,M,0,75000
+MI,FT,NLP Engineer,BR,S,0,56000
+EN,FT,NLP Engineer,US,L,100,114000
+EX,FT,NLP Engineer,AU,M,100,155000
+EX,FT,NLP Engineer,UK,L,50,175000
+SE,FT,Computer Vision Engineer,DE,M,0,115000
+EX,FT,Computer Vision Engineer,DE,S,100,133000
+EX,FT,Computer Vision Engineer,ES,L,50,147000
+SE,FT,Computer Vision Engineer,FR,S,50,94000
+MI,FT,Computer Vision Engineer,FR,S,0,71000
+SE,FT,Computer Vision Engineer,FR,M,50,130000
+EX,FT,Computer Vision Engineer,UK,L,100,231000
+MI,FT,Computer Vision Engineer,NL,M,100,91000
+EX,FT,Computer Vision Engineer,FR,M,0,157000
+MI,FT,Computer Vision Engineer,FR,S,0,84000
+EX,FT,Computer Vision Engineer,CA,M,50,197000
+MI,FT,Computer Vision Engineer,US,M,50,134000
+EN,FT,Computer Vision Engineer,US,M,50,80000
+EN,FT,Computer Vision Engineer,AU,M,0,77000
+MI,FT,Computer Vision Engineer,ES,S,0,62000
+EN,FT,Computer Vision Engineer,FR,M,100,67000
+MI,FT,Computer Vision Engineer,CA,L,0,141000
+EX,FT,Computer Vision Engineer,DE,S,100,142000
+EX,FT,Computer Vision Engineer,NL,L,0,154000
+SE,FT,Computer Vision Engineer,NL,M,100,124000
+MI,FT,Computer Vision Engineer,IN,L,50,63000
+MI,FT,Computer Vision Engineer,CA,M,100,109000
+MI,FT,Computer Vision Engineer,BR,M,0,54000
+EN,FT,Computer Vision Engineer,AU,S,50,64000
+MI,FT,Computer Vision Engineer,US,L,100,159000
+MI,FT,Computer Vision Engineer,ES,M,0,73000
+EX,FT,Computer Vision Engineer,IN,L,50,100000
+EX,FT,Computer Vision Engineer,US,M,50,187000
+SE,FT,Computer Vision Engineer,IN,S,0,54000
+MI,FT,Computer Vision Engineer,AU,S,50,83000
+SE,FT,Computer Vision Engineer,FR,L,100,138000
+MI,FT,Computer Vision Engineer,FR,S,100,82000
+EN,FT,Computer Vision Engineer,NL,L,100,72000
+SE,FT,Computer Vision Engineer,DE,L,100,174000
+EX,FT,Computer Vision Engineer,DE,S,0,131000
+EN,FT,Computer Vision Engineer,CA,L,100,96000
+EN,FT,Computer Vision Engineer,BR,L,100,59000
+EX,FT,Computer Vision Engineer,AU,M,100,195000
+SE,FT,Computer Vision Engineer,ES,S,0,87000
+SE,FT,Computer Vision Engineer,UK,S,100,129000
+MI,FT,Computer Vision Engineer,DE,S,0,74000
+SE,FT,Computer Vision Engineer,BR,S,0,61000
+MI,FT,Computer Vision Engineer,ES,L,100,90000
+MI,FT,Computer Vision Engineer,UK,S,100,102000
+SE,FT,Computer Vision Engineer,AU,S,0,100000
+SE,FT,Computer Vision Engineer,US,S,100,122000
+EX,FT,Computer Vision Engineer,US,L,100,276000
+MI,FT,Computer Vision Engineer,BR,S,50,56000
+EX,FT,Computer Vision Engineer,DE,S,0,130000
+SE,FT,Computer Vision Engineer,DE,S,50,119000
+SE,FT,Computer Vision Engineer,NL,L,0,132000
+EN,FT,Computer Vision Engineer,CA,L,50,85000
+MI,FT,Computer Vision Engineer,CA,S,100,100000
+SE,FT,Computer Vision Engineer,NL,L,0,119000
+EN,FT,Computer Vision Engineer,DE,L,0,69000
+MI,FT,Computer Vision Engineer,NL,S,0,71000
+EN,FT,Computer Vision Engineer,FR,M,50,66000
+EN,FT,Computer Vision Engineer,IN,S,100,32000
+SE,FT,Computer Vision Engineer,DE,S,100,124000
+EX,FT,Computer Vision Engineer,IN,M,50,80000
+MI,FT,MLOps Engineer,CA,L,0,126000
+EX,FT,MLOps Engineer,UK,S,100,131000
+EX,FT,MLOps Engineer,ES,L,100,136000
+MI,FT,MLOps Engineer,US,L,0,142000
+SE,FT,MLOps Engineer,UK,M,50,130000
+MI,FT,MLOps Engineer,BR,L,50,73000
+EX,FT,MLOps Engineer,NL,M,0,160000
+EX,FT,MLOps Engineer,US,S,50,183000
+EN,FT,MLOps Engineer,AU,L,100,77000
+EX,FT,MLOps Engineer,DE,S,50,131000
+MI,FT,MLOps Engineer,DE,M,0,83000
+EX,FT,MLOps Engineer,UK,L,50,174000
+EX,FT,MLOps Engineer,ES,S,50,97000
+MI,FT,MLOps Engineer,AU,L,100,109000
+MI,FT,MLOps Engineer,CA,M,0,88000
+MI,FT,MLOps Engineer,BR,S,100,49000
+MI,FT,MLOps Engineer,BR,S,0,53000
+MI,FT,MLOps Engineer,BR,L,50,62000
+MI,FT,MLOps Engineer,FR,S,100,73000
+MI,FT,MLOps Engineer,CA,M,0,104000
+SE,FT,MLOps Engineer,FR,S,100,109000
+MI,FT,MLOps Engineer,ES,M,100,76000
+SE,FT,MLOps Engineer,FR,L,0,118000
+SE,FT,MLOps Engineer,NL,M,100,144000
+MI,FT,MLOps Engineer,DE,S,50,79000
+MI,FT,MLOps Engineer,CA,M,0,103000
+EN,FT,MLOps Engineer,US,L,100,89000
+EN,FT,MLOps Engineer,CA,L,100,81000
+EN,FT,MLOps Engineer,NL,L,100,69000
+EN,FT,MLOps Engineer,AU,L,50,85000
+EN,FT,MLOps Engineer,ES,L,100,68000
+MI,FT,MLOps Engineer,IN,L,100,74000
+EN,FT,MLOps Engineer,FR,S,50,52000
+SE,FT,MLOps Engineer,BR,M,100,78000
+EN,FT,MLOps Engineer,UK,L,50,83000
+EX,FT,MLOps Engineer,FR,S,0,114000
+EX,FT,MLOps Engineer,FR,L,50,175000
+SE,FT,MLOps Engineer,BR,S,50,76000
+EX,FT,MLOps Engineer,AU,L,50,191000
+EX,FT,MLOps Engineer,CA,S,0,144000
+EX,FT,MLOps Engineer,ES,M,100,119000
+MI,FT,MLOps Engineer,FR,S,0,76000
+EX,FT,MLOps Engineer,ES,M,50,132000
+MI,FT,MLOps Engineer,IN,L,50,69000
+EN,FT,MLOps Engineer,BR,M,50,43000
+MI,FT,MLOps Engineer,US,L,0,116000
+EN,FT,MLOps Engineer,IN,L,100,46000
+EX,FT,MLOps Engineer,UK,L,0,176000
+EN,FT,MLOps Engineer,ES,L,50,69000
+EX,FT,MLOps Engineer,ES,M,0,126000
+EX,FT,MLOps Engineer,NL,S,50,112000
+EX,FT,MLOps Engineer,NL,L,100,186000
+EX,FT,MLOps Engineer,FR,M,0,151000
+SE,FT,MLOps Engineer,DE,S,0,102000
+EX,FT,MLOps Engineer,NL,M,100,150000
+EX,FT,MLOps Engineer,US,M,100,229000
+EN,FT,MLOps Engineer,FR,L,50,71000
+SE,FT,MLOps Engineer,DE,L,0,115000
+SE,FT,MLOps Engineer,UK,S,100,106000
+EN,FT,MLOps Engineer,UK,L,50,76000
+MI,FT,Data Science Manager,CA,M,50,135000
+EX,FT,Data Science Manager,AU,S,100,168000
+EX,FT,Data Science Manager,NL,S,100,196000
+MI,FT,Data Science Manager,AU,M,50,133000
+SE,FT,Data Science Manager,AU,M,0,178000
+EX,FT,Data Science Manager,FR,S,100,162000
+MI,FT,Data Science Manager,US,L,50,176000
+EN,FT,Data Science Manager,DE,M,50,79000
+EN,FT,Data Science Manager,FR,L,50,106000
+MI,FT,Data Science Manager,CA,M,0,125000
+SE,FT,Data Science Manager,FR,S,50,132000
+EX,FT,Data Science Manager,NL,S,0,170000
+EX,FT,Data Science Manager,US,S,0,201000
+EX,FT,Data Science Manager,US,L,50,305000
+EN,FT,Data Science Manager,BR,S,50,51000
+MI,FT,Data Science Manager,IN,M,0,59000
+MI,FT,Data Science Manager,AU,S,100,97000
+SE,FT,Data Science Manager,FR,M,100,171000
+MI,FT,Data Science Manager,FR,S,50,103000
+EX,FT,Data Science Manager,ES,L,0,207000
+MI,FT,Data Science Manager,US,S,100,119000
+SE,FT,Data Science Manager,CA,M,0,170000
+EX,FT,Data Science Manager,IN,S,0,92000
+EN,FT,Data Science Manager,DE,L,100,115000
+EX,FT,Data Science Manager,AU,L,0,215000
+SE,FT,Data Science Manager,NL,M,0,145000
+EX,FT,Data Science Manager,NL,M,100,204000
+EX,FT,Data Science Manager,AU,M,50,226000
+MI,FT,Data Science Manager,US,S,0,128000
+EX,FT,Data Science Manager,UK,L,50,242000
+MI,FT,Data Science Manager,ES,L,100,123000
+MI,FT,Data Science Manager,BR,S,0,67000
+MI,FT,Data Science Manager,CA,M,100,162000
+EX,FT,Data Science Manager,NL,M,100,238000
+MI,FT,Data Science Manager,UK,M,100,144000
+EN,FT,Data Science Manager,DE,L,50,94000
+EN,FT,Data Science Manager,UK,L,0,90000
+SE,FT,Data Science Manager,DE,L,100,197000
+SE,FT,Data Science Manager,FR,S,50,125000
+SE,FT,Data Science Manager,UK,S,100,141000
+SE,FT,Data Science Manager,BR,L,100,132000
+MI,FT,Data Science Manager,ES,S,0,92000
+MI,FT,Data Science Manager,BR,L,100,105000
+EN,FT,Data Science Manager,ES,S,100,63000
+EN,FT,Data Science Manager,ES,M,100,75000
+EX,FT,Data Science Manager,NL,S,50,173000
+SE,FT,Data Science Manager,CA,L,0,219000
+SE,FT,Data Science Manager,IN,L,50,96000
+EN,FT,Data Science Manager,DE,M,100,100000
+SE,FT,Data Science Manager,US,L,50,225000
+MI,FT,Data Science Manager,AU,M,50,124000
+MI,FT,Data Science Manager,DE,S,50,103000
+EN,FT,Data Science Manager,DE,L,100,111000
+EN,FT,Data Science Manager,IN,M,100,57000
+MI,FT,Data Science Manager,CA,S,50,112000
+EX,FT,Data Science Manager,BR,M,0,136000
+EN,FT,Data Science Manager,UK,M,50,107000
+MI,FT,Data Science Manager,IN,S,100,72000
+MI,FT,Data Science Manager,ES,S,0,90000
+SE,FT,Data Science Manager,US,L,50,253000

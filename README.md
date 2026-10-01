@@ -1,6 +1,20 @@
 # AI Salary Prediction Agent
 
-A Streamlit application that predicts data-science salaries using a Random Forest model trained on the DS Salaries dataset.
+A Streamlit application that predicts data-science salaries using a Random Forest model.
+
+Select your experience level, job role, company size, location, and remote ratio — click **Predict** to get an estimated annual salary in USD.
+
+---
+
+## Inputs
+
+| Field | Options |
+|---|---|
+| Experience Level | EN (Entry), MI (Mid), SE (Senior), EX (Executive) |
+| Job Role | 15 data-science roles (Data Scientist, ML Engineer, etc.) |
+| Company Size | S (Small), M (Medium), L (Large) |
+| Location | 10 countries (US, CA, UK, IN, DE, FR, AU, BR, ES, NL) |
+| Remote Ratio | 0% On-site · 50% Hybrid · 100% Fully Remote |
 
 ---
 
@@ -15,7 +29,7 @@ pip install -r requirements.txt
 ```bash
 python train_model.py
 ```
-This reads `data/ds_salaries.csv` and saves `model/salary_model.pkl` and `model/encoder.pkl`.
+Reads `data/ds_salaries.csv` and saves `model/salary_model.pkl` and `model/encoder.pkl`.
 
 ### 3. Launch the app
 ```bash
@@ -25,20 +39,12 @@ Open http://localhost:8501 in your browser.
 
 ---
 
-## How It Works
-
-Select your experience level, job role, company size, location, and remote ratio, then click **Predict** to get an estimated annual salary in USD.
-
-The prediction is made by a `RandomForestRegressor` trained on real-world data-science salary data.
-
----
-
 ## Deployment
 
 ### ✅ Render (recommended)
 1. Push this repo to GitHub.
 2. Create a new **Web Service** on [Render](https://render.com).
-3. Set the **Start Command** to:
+3. Set **Start Command** to:
    ```
    streamlit run app.py --server.port $PORT --server.address 0.0.0.0
    ```
@@ -65,7 +71,7 @@ Vercel cannot run Streamlit apps. The included `vercel.json` and `api/index.py` 
 ├── api/
 │   └── index.py        # Vercel serverless handler (landing page)
 ├── data/
-│   └── ds_salaries.csv # Training dataset
+│   └── ds_salaries.csv # Training dataset (900 rows, 15 job titles, 10 locations)
 └── model/
     ├── salary_model.pkl
     └── encoder.pkl
