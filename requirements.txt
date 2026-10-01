@@ -6,4 +6,3 @@ joblib
 langchain
 openai
 python-dotenv
-ollama

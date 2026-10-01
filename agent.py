@@ -1,10 +1,25 @@
-import ollama
+import os
+from openai import OpenAI
 
 
 def career_advice(salary, skills):
 
+    api_key = os.getenv("OPENROUTER_API_KEY")
+
+    if not api_key:
+        return (
+            "AI Career Advice is unavailable: the OPENROUTER_API_KEY "
+            "environment variable is not set. Please add it in your Render "
+            "dashboard under Environment → Secret Files / Environment Variables."
+        )
+
+    client = OpenAI(
+        api_key=api_key,
+        base_url="https://openrouter.ai/api/v1",
+    )
+
     prompt = f"""
-    sSalary: {salary}
+    Salary: {salary}
     Skills: {skills}
 
     Give only:
@@ -15,8 +30,8 @@ def career_advice(salary, skills):
     Keep answer under 100 words.
     """
 
-    response = ollama.chat(
-        model="phi3",
+    response = client.chat.completions.create(
+        model="mistralai/mistral-7b-instruct:free",
         messages=[
             {
                 "role": "user",
@@ -25,4 +40,4 @@ def career_advice(salary, skills):
         ]
     )
 
-    return response["message"]["content"]
+    return response.choices[0].message.content
