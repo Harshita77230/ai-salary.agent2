@@ -1,0 +1,28 @@
+# .vercelignore
+# Exclude large ML assets from the Vercel build sandbox.
+# These are only needed when running the Streamlit app locally,
+# not by the api/index.py serverless handler.
+
+# Trained model binaries (~50-100 MB combined)
+model/
+
+# Training dataset
+data/
+ds_salaries.csv
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Local environment
+.env
+.venv
+venv/
+env/
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/

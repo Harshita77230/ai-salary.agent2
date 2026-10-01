@@ -1,0 +1,5 @@
+# No third-party dependencies needed.
+# api/index.py only uses http.server from the Python standard library.
+# Keeping this file empty prevents Vercel from bundling the root-level
+# requirements.txt (pandas, scikit-learn, streamlit, etc.) into the
+# serverless function, which would exceed the 500 MB bundle limit.
